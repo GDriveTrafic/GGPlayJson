@@ -1,0 +1,87 @@
+{
+  "Iklan": [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=",
+      "interid": "ca-app-pub-8254124438664311/2075168261",
+      "nativeid": "ca-app-pub-8254124438664311/3586548724",
+      "openid":   "ca-app-pub-8254124438664311/1179877234",
+      "startappid": "123456789",
+      "pengaturan_iklan": "8787",
+      "fan_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_banner_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "moPub_inter": "24534e1901884e398f1253216226017e",
+      "moPub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Nastya",
+      "image":"https://drive.google.com/uc?id=12BguXoMTkM1J-_bzRAlC_SgW3i_gajR1",
+      "link":"https://play.google.com/store/apps/details?id=com.DannyProject.CallNastya"
+    },
+    {
+      "id":2,
+      "judul":"Diana",
+      "image":"https://drive.google.com/uc?id=1N2xy9_QshoO0F8PNvwF3i6l8utuL0-bX",
+      "link":"https://play.google.com/store/apps/details?id=com.DannyProject.callKidsDianaShow"
+    },
+        {
+      "id":2,
+      "judul":"A4 Vlad",
+      "image":"https://drive.google.com/uc?id=1N2xy9_QshoO0F8PNvwF3i6l8utuL0-bX",
+      "link":"https://play.google.com/store/apps/details?id=com.DannyProject.callKidsDianaShow"
+    },
+        {
+      "id":2,
+      "judul":"Vlad & Nikita",
+      "image":"https://drive.google.com/uc?id=1Ab4_WkEjbmMia2A2Rs-A-BKVQPNESkm7",
+      "link":"https://play.google.com/store/apps/details?id=com.DannyProject.callVladandNikita"
+    },
+        {
+      "id":2,
+      "judul":"Aayu and Pihu",
+      "image":"https://drive.google.com/uc?id=1jLB5ww6lBMkyJKUZlifY446kr4Lq1bWR",
+      "link":"https://play.google.com/store/apps/details?id=com.DannyProject.CallAayu"
+    }
+
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Santa Claus",
+      "image_url":"https://drive.google.com/uc?id=14BreTVbeL_CKnzG98pRBBCbxZsypalqi",
+      "prev_url":"https://drive.google.com/uc?id=1w7aVFqIxMoVyry1tG8I7-L9e2Me9Jl2t",
+      "video_url":"https://drive.google.com/uc?id=15SPM1G01DbKYr9PR82cGkU75-fEkyOB9",
+      "voice_url":"https://drive.google.com/uc?id=1QxlMisrr4DQEMLAaU2jlIy7nhyAUmPf7"
+    },
+    {
+      "id":2,
+      "name":"The Father Santa Claus",
+      "image_url":"https://drive.google.com/uc?id=1rngAZk71_DTxZEemOswz1pr7mtRjJd1u",
+      "prev_url":"https://drive.google.com/uc?id=1IKfoW7pr7bMip8zBD3M6VEKIJi-FMwm2",
+      "video_url":"https://drive.google.com/uc?id=15SPM1G01DbKYr9PR82cGkU75-fEkyOB9",
+      "voice_url":"https://drive.google.com/uc?id=1QxlMisrr4DQEMLAaU2jlIy7nhyAUmPf7"
+    },
+    {
+      "id":3,
+      "name":"Pere Noel",
+      "image_url":"https://drive.google.com/uc?id=1YTeb40hudfw4Gp6h4VirJk0UCNHhD_Lg",
+      "prev_url":"https://drive.google.com/uc?id=1gW4Dzo_RmEwuqLXhu2COgTucUyIsQx99",
+      "video_url":"https://drive.google.com/uc?id=15SPM1G01DbKYr9PR82cGkU75-fEkyOB9",
+      "voice_url":"https://drive.google.com/uc?id=1QxlMisrr4DQEMLAaU2jlIy7nhyAUmPf7"
+    }
+    
+  ]
+
+}
