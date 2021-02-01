@@ -1,0 +1,105 @@
+{
+  "Iklan": [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=",
+      "interid": "",
+      "nativeid": "",
+      "startappid": "",
+      "pengaturan_iklan": "1",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "moPub_inter": "",
+      "moPub_banner": "",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "judul":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Ludo King",
+      "image_url":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "video_url":"https://r2---sn-p5h-gc5r.googlevideo.com/videoplayback?expire=1602611580&ei=HJWFX6mrKaupmLAP5L2M8AQ&ip=41.142.61.112&id=o-AINT_xDua4lQ_dvYxr4l9-gHVbIBtkmRy3X-0ZPbf5xQ&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=12892193&ratebypass=yes&dur=245.063&lmt=1569683141234737&fvip=2&fexp=9466586,23915654&beids=9466586&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAPRabO6wyw9gR-TuvN4EjxsM7jfTe3UFd8AhScEkWw_ZAiEAjOoDSXj5Ha1H95JWxJA6SQkuB7mfETlF_eZMk0GYCB4%3D&redirect_counter=1&rm=sn-p5h-4x1e7l&req_id=10106ee8b7d4a3ee&cms_redirect=yes&mh=bO&mm=29&mn=sn-p5h-gc5r&ms=rdu&mt=1602589867&mv=m&mvi=2&pl=21&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgVvCuKaeDYWCmmjYffZaZv8H-Q3tIamh2sm1OLPUGzjMCIDrKt_IW-R_q9NoMa0EiV1NKH_Dzf0nUInRsQ6itl3cA",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":2,
+      "name":"Homescapes",
+      "image_url":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "video_url":"https://drive.google.com/uc?id=1wYXIl5AEG9aGp2W29Er2R6mrO22ja0Cs",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":3,
+      "name":"Minecraft",
+      "image_url":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "video_url":"http://hexa.web.id/footbal.mov",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":4,
+      "name":"Sonic the HedgehogÃ¢â€žÂ¢ Classic",
+      "image_url":"https://lh3.googleusercontent.com/A36BoVai10oaIOcE4vTL_q-XbyoZZ3O9PNwyszcRDshkGvCJV1SpJ1L5eWGKUZ_ilmo=s180-rw",
+      "video_url":"http://hexa.web.id/footbal.mov",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":5,
+      "name":"War Machines: Best Free Online War & Military Game",
+      "image_url":"https://lh3.googleusercontent.com/00Ssxzf3ZLkhzbbgCgTvXR2LGIlcSkxxJ88PCBtketoEcwSAXCOFLBmtntFCB3noPlw=s180-rw",
+      "video_url":"http://hexa.web.id/footbal.mov",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":6,
+      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
+      "image_url":"https://lh3.googleusercontent.com/N59HSZf7n89U8dFozxBNTZ5kWxC8n4v9pE7XF4RLoYRwt4B_FH0x_J8H3XDB54Zjc_c=s180-rw",
+      "video_url":"http://hexa.web.id/footbal.mov",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":7,
+      "name":"Garena Free Fire: 3volution",
+      "image_url":"https://lh3.googleusercontent.com/lKb7KUgesFXQLIkSZrACkP6tZGmql0la5EqYXbOxpcR_LJPbly3OEhzmjX7Hyq_0Nx4=s180-rw",
+      "video_url":"http://hexa.web.id/footbal.mov",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":8,
+      "name":"Candy Crush Saga",
+      "image_url":"https://lh3.googleusercontent.com/RUwaKZyft2lCAQ_SAKIsq1eRZ4qayMB3_kMv_nftJjgY78LywAOD9QpEn9VWolIywWRZ=s180-rw",
+      "video_url":"http://hexa.web.id/footbal.mov",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id":9,
+      "name":"8 Ball Pool",
+      "image_url":"https://lh3.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s180-rw",
+      "video_url":"http://hexa.web.id/footbal.mov",
+      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+    }
+  ]
+
+}
